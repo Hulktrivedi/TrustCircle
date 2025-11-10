@@ -90,21 +90,23 @@ The system ensures:
 
 ## 🧭 Folder Structure (Example)
 
-├── client/ # Mobile & Web front-end
-│ ├── src/ 
-│ ├── assets/ 
-│ └── components/ 
+```bash
+TrustedCircle/
 │
-├── server/ # Backend API
-│ ├── routes/ 
-│ ├── controllers/ 
-│ ├── models/ 
-│ └── middleware/ 
+├── client/               # Mobile & Web front-end
+│   ├── src/
+│   ├── assets/
+│   └── components/
 │
-├── docs/ # Architecture diagrams, Flowcharts, READMEs
+├── server/               # Backend API
+│   ├── routes/
+│   ├── controllers/
+│   ├── models/
+│   └── middleware/
+│
+├── docs/                 # Architecture diagrams, Flowcharts, READMEs
 │
 └── README.md
-
 
 ---
 ## 🧑‍💻 Maintainers
