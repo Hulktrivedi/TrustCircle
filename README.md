@@ -114,7 +114,6 @@ TrustedCircle/
 | Name | Role | Contact |
 |------|------|----------|
 | Het Trivedi | Founder & Lead Architect | [GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/) |
-| (Add Partners) | Co-Founder / Backend / Frontend | — |
 
 ---
 ## 📢 Acknowledgements
