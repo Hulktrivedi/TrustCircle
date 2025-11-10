@@ -90,7 +90,7 @@ The system ensures:
 
 ## 🧭 Folder Structure (Example)
 
-```bash
+
 TrustedCircle/
 │
 ├── client/               # Mobile & Web front-end
