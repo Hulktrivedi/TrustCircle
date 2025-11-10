@@ -90,7 +90,7 @@ The system ensures:
 
 ## 🧭 Folder Structure (Example)
 
-
+```bash
 TrustedCircle/
 │
 ├── client/               # Mobile & Web front-end
@@ -107,7 +107,7 @@ TrustedCircle/
 ├── docs/                 # Architecture diagrams, Flowcharts, READMEs
 │
 └── README.md
-
+```
 ---
 ## 🧑‍💻 Maintainers
 
